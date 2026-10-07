@@ -1,0 +1,39 @@
+# Node & Web Build Artifacts
+node_modules/
+dist/
+build/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Linting
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Streamlit Local Secrets & Cache
+.streamlit/secrets.toml
+.streamlit/*.tmp

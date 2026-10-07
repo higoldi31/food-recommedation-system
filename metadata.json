@@ -1,0 +1,6 @@
+{
+  "name": "MoodFood - Mood-Based Food Recommendation System",
+  "description": "A portfolio Data Science and ML project recommending personalized meals based on mood, dietary requirements, and nutritional profiles using TF-IDF and Cosine Similarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

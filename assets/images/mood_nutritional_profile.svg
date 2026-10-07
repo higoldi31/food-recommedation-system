@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%" style="background:#FAF8F5; font-family: sans-serif;">
+<text x="320.0" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#202E26">Nutritional Differences Across Mood States</text>
+<rect x="200.0" y="45" width="12" height="12" fill="#527360" rx="2" />
+<text x="218.0" y="55" font-size="10" fill="#2D3B32">Avg Calories (kcal, Left Axis)</text>
+<rect x="360.0" y="45" width="12" height="12" fill="#C46242" rx="2" />
+<text x="378.0" y="55" font-size="10" fill="#2D3B32">Avg Protein (g, Right Axis)</text>
+<rect x="81.3" y="105.4" width="20" height="184.6" fill="#527360" rx="3" />
+<text x="91.3" y="101.4" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">346</text>
+<rect x="105.3" y="100.8" width="20" height="189.2" fill="#C46242" rx="3" />
+<text x="115.3" y="96.8" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">23.7g</text>
+<text x="103.3" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Energetic</text>
+<rect x="168.0" y="95.5" width="20" height="194.5" fill="#527360" rx="3" />
+<text x="178.0" y="91.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">364</text>
+<rect x="192.0" y="177.3" width="20" height="112.7" fill="#C46242" rx="3" />
+<text x="202.0" y="173.3" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">14.1g</text>
+<text x="190.0" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Happy</text>
+<rect x="254.7" y="120.2" width="20" height="169.8" fill="#527360" rx="3" />
+<text x="264.7" y="116.2" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">318</text>
+<rect x="278.7" y="177.1" width="20" height="112.9" fill="#C46242" rx="3" />
+<text x="288.7" y="173.1" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">14.1g</text>
+<text x="276.7" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Stressed</text>
+<rect x="341.3" y="116.8" width="20" height="173.2" fill="#527360" rx="3" />
+<text x="351.3" y="112.8" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">324</text>
+<rect x="365.3" y="162.5" width="20" height="127.5" fill="#C46242" rx="3" />
+<text x="375.3" y="158.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">15.9g</text>
+<text x="363.3" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Tired</text>
+<rect x="428.0" y="135.7" width="20" height="154.3" fill="#527360" rx="3" />
+<text x="438.0" y="131.7" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">289</text>
+<rect x="452.0" y="175.7" width="20" height="114.3" fill="#C46242" rx="3" />
+<text x="462.0" y="171.7" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">14.3g</text>
+<text x="450.0" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Relaxed</text>
+<rect x="514.7" y="143.8" width="20" height="146.2" fill="#527360" rx="3" />
+<text x="524.7" y="139.8" text-anchor="middle" font-size="9" font-weight="bold" fill="#527360">274</text>
+<rect x="538.7" y="188.5" width="20" height="101.5" fill="#C46242" rx="3" />
+<text x="548.7" y="184.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#C46242">12.7g</text>
+<text x="536.7" y="308" text-anchor="middle" font-size="11" font-weight="bold" fill="#202E26">Low Mood</text>
+</svg>

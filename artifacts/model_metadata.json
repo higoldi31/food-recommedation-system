@@ -1,0 +1,66 @@
+{
+  "project_name": "MoodFood - Mood-Based Food Recommendation System",
+  "stage": "Stage 9: Model Artifacts & Serialization",
+  "model_architecture": "Content-Based Filtering (TF-IDF + Cosine Similarity + Hard Linear Constraints)",
+  "serialization_format": "Python Pickle Protocol 5",
+  "export_timestamp_utc": "2026-09-24T17:16:04Z",
+  "dataset_statistics": {
+    "total_records": 320,
+    "attributes_count": 17,
+    "mood_classes": [
+      "Stressed",
+      "Tired",
+      "Relaxed",
+      "Happy",
+      "Energetic",
+      "Low Mood"
+    ],
+    "meal_types": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Snack"
+    ],
+    "vegetarian_ratio": 0.584,
+    "average_calories": 348.5
+  },
+  "vectorizer_hyperparameters": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "norm": "l2",
+    "smooth_idf": true,
+    "sublinear_tf": false,
+    "vocabulary_size": 1702,
+    "stopwords_filtered": true
+  },
+  "hybrid_formula_weights": {
+    "cosine_similarity_weight": 0.7,
+    "calorie_budget_fit_weight": 0.15,
+    "protein_density_ratio_weight": 0.15,
+    "formula_string": "0.70 * CosineSim + 0.15 * CalorieFit + 0.15 * ProteinFit"
+  },
+  "artifact_manifest": {
+    "tfidf_vectorizer.pkl": {
+      "size_kb": 50.65,
+      "sha256": "3a650aabaca5911f065df19824fa231773d71c3f894199ea3940fb0e2daaa746",
+      "description": "Fitted TF-IDF Vectorizer with full unigram and bigram vocabulary"
+    },
+    "tfidf_matrix.pkl": {
+      "size_kb": 240.09,
+      "sha256": "766e06a6f3c740e745d6bfad72f8a7dd04e226876555bef7927994c665412efd",
+      "description": "L2-normalized sparse TF-IDF document vectors for 320 foods"
+    },
+    "food_dataset_clean.pkl": {
+      "size_kb": 219.86,
+      "sha256": "323ba72dffa960ff06e0a71ee21c599af6542cfdc208edaac4929c8024dc77f4",
+      "description": "Preprocessed clean tabular recipe dataset with engineered content soup"
+    }
+  },
+  "runtime_environment": {
+    "python_version": "3.10.12",
+    "fast_inference_ready": true,
+    "streamlit_caching_target": "@st.cache_resource"
+  }
+}
