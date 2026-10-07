@@ -1,7 +1,7 @@
 # MoodFood — Mood-Based Food Recommendation System 🥗
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-527360?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-Live%20App-D9822B?style=flat-square&logo=streamlit&logoColor=white)](https://moodfood-recommender.streamlit.app)
+[![Streamlit Cloud](https://food-recommedation-system-arqkenrmqokcpy7kfeyghc.streamlit.app/)
 [![Tests Passing](https://img.shields.io/badge/Tests-8%20of%208%20Passing-202E26?style=flat-square&logo=checkmarx&logoColor=white)](scripts/stage12_app_testing.py)
 [![Latency](https://img.shields.io/badge/Query%20Latency-1.03%20ms-527360?style=flat-square)](scripts/stage12_app_testing.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-C2AB91?style=flat-square)](LICENSE)
