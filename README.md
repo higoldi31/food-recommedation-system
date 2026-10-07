@@ -1,11 +1,6 @@
 # MoodFood — Mood-Based Food Recommendation System 🥗
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-527360?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit Cloud](https://food-recommedation-system-arqkenrmqokcpy7kfeyghc.streamlit.app/)
-[![Tests Passing](https://img.shields.io/badge/Tests-8%20of%208%20Passing-202E26?style=flat-square&logo=checkmarx&logoColor=white)](scripts/stage12_app_testing.py)
-[![Latency](https://img.shields.io/badge/Query%20Latency-1.03%20ms-527360?style=flat-square)](scripts/stage12_app_testing.py)
-[![License: MIT](https://img.shields.io/badge/License-MIT-C2AB91?style=flat-square)](LICENSE)
-[![Memory Footprint](https://img.shields.io/badge/RAM%20Footprint-0.50%20MB-527360?style=flat-square)](artifacts/model_metadata.json)
+Live on Streamlit : https://food-recommedation-system-arqkenrmqokcpy7kfeyghc.streamlit.app/
 
 An end-to-end, production-grade **Machine Learning & Nutritional Psychiatry Recommendation System** that tailors personalized meal plans in real time based on user emotional states, dietary constraints, and macronutrient targets.
 
